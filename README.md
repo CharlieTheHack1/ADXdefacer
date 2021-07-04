@@ -4,6 +4,8 @@
 AOXdeface is a tool for defacing dozens or hundreds of sites at once,depending on the number
 of sites that have been determined by you, this is not dangerous, and this is only the file upload method<br>
 
+**Don't use this script if you think if you're prufessional hackeur !!!**
+
 ![logo](image.jpg)
 
 **how to install and usage:**
